@@ -7,7 +7,8 @@ public class Main {
         System.out.println("pandas are cute");
         System.out.println("dont swear");
 
-        System.out.println("ze");
+
+        System.out.println("se");
         NewClassForMain newClassForMain=new NewClassForMain();
     }
 
