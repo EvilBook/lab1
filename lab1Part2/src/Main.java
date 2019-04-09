@@ -9,6 +9,8 @@ public class Main {
 
 
 
+        System.out.println("shits");
+        NewClassForMain newClassForMain=new NewClassForMain();
     }
 
 }
