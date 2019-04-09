@@ -6,6 +6,8 @@ public class NewClassForMain {
 
         System.out.println("new Class for main Created");
 
+        
+
     }
 
 }
