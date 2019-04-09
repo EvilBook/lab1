@@ -9,6 +9,7 @@ public class Main {
         System.out.println("swears");
         System.out.println("please");
         System.out.println("fuck you");
+        System.out.println("revert");
 
     }
 
