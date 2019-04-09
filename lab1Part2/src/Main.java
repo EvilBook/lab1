@@ -9,7 +9,7 @@ public class Main {
 
 
 
-        System.out.println("kiwi");
+        System.out.println("ze");
         NewClassForMain newClassForMain=new NewClassForMain();
     }
 
