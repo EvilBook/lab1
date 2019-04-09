@@ -5,6 +5,10 @@ public class Main {
 
 
         System.out.println("took over bitch");
+        System.out.println("dont swear");
+
+
+
         System.out.println("shits");
         NewClassForMain newClassForMain=new NewClassForMain();
     }
