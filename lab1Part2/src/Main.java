@@ -9,7 +9,7 @@ public class Main {
 
 
 
-        System.out.println("shits");
+        System.out.println("pinocchio");
         NewClassForMain newClassForMain=new NewClassForMain();
     }
 
