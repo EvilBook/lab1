@@ -8,6 +8,7 @@ public class Main {
         System.out.println("use");
         System.out.println("swears");
         System.out.println("please");
+        System.out.println("fuck you");
 
     }
 
